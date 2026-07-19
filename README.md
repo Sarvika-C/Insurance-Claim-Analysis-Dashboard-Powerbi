@@ -49,19 +49,6 @@ The **Insurance Claim Analysis Dashboard** provides a comprehensive overview of 
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Insurance-Claim-Analysis/
-│
-├── Insurance Claim Analysis.pbix
-├── Dashboard Screenshot.png
-├── Dataset.xlsx
-└── README.md
-```
-
----
-
 
 
 ## 📈 Key Metrics
